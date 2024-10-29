@@ -1,11 +1,10 @@
-markdown
 # 🚀 C# EĞİTİM KAMPI
 Bu repo Murat Yücedağ'ın YouTube üzerinde ücretsiz olarak yayınladığı bu derste sıfırdan orta seviyeye kadar C# eğitimi vardır.<p>
 Buradan (https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr) ulaşabilirsiniz.<p>
 Her hafta farklı bir konu üzerinde durmaktadır. Aşağıda bu projenin her haftada yapılan içeriklerimiz bulunmaktadır;
 
-## 📍 Proje 1: Main Subjects
-        Burada ConsoleWrite(); ile yazdırılma ve projelerin çalıştırılması gösterilmiştir.
+## 📍 Proje 1: Main Subjects 
+        Burada ConsoleWrite(); ile yazdırılma ve projelerin çalıştırılması gösterilmiştir. 
 
 ## 📍 Proje 2: Variables
         Değişken türleri nelerdir, hangisinde hangi değişken türü kullanılır, nasıl tanımlanır bunlara bakıldı.
