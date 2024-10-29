@@ -1,4 +1,4 @@
-🚀 C# EĞİTİM KAMPI
+# 🚀 C# EĞİTİM KAMPI
 Bu repo Murat Yücedağ'ın YouTube üzerinde ücretsiz olarak yayınladığı bu derste sıfırdan orta seviyeye kadar C# eğitimi vardır.
 Her hafta farklı bir konu üzerinde durmaktadır. Aşağıda bu projenin her haftada yapılan içeriklerimiz bulunmaktadır;
 
