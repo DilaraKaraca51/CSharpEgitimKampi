@@ -55,7 +55,7 @@ Her hafta farklı bir konu üzerinde durmaktadır. Aşağıda bu projenin her ha
         Burada veri tabanı kullanmaya geçtik. Sql Server Management Studio ile database oluşturduk ve içlerine tablolarımı ekledik.
         Veri tabanını bağlamayı işledik.
 
-## 📍 Proje 9: Database Crud
+## 📍 Proje 10: Database Crud
         Crud işlemlerini yaptık;
         Create, read, update, delete
         Sql sorgularını yazarak işlemleri gerçekleştirdik.
