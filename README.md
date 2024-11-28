@@ -62,5 +62,13 @@ Her hafta farklı bir konu üzerinde durmaktadır. Aşağıda bu projenin her ha
 
 
 
+# 🚀 C# EĞİTİM KAMPI 301 
+
+        ![C#EgitimKampi](https://github.com/user-attachments/assets/2c7d1ef3-a931-45ce-beca-3da7b308e228)
+
+        Bu C# Eğitiminde N katmanlı mimari üzerinde durduk veri tabanı ile bağlantıları üzerinde bu tabloyu yaptık.
+        Migration ile veri tabanında yaptığımız değişiklikleri nasıl güncellediğimizi gördüm. Interface nedir nerede kullanılır burada yapmış bulundum. Classlardan farkını görmüş olduk.
+        Bu ekran çıktısında da göründüğü üzere çeşitli sorgular yazdık.
 
         
+
