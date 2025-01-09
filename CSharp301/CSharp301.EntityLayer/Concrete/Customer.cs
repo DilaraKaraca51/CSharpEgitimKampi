@@ -10,7 +10,7 @@ namespace CSharp301.EntityLayer.Concrete
     {
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }
-        public int CustomerSurname { get; set; }
+        public string CustomerSurname { get; set; }
         public string CustomerDistrict { get; set; }
         public string CustomerCity { get; set; }
         public List<Order> Orders { get; set; }

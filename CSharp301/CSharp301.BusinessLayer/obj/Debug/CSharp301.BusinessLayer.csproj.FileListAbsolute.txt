@@ -1,0 +1,15 @@
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.BusinessLayer.dll
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.BusinessLayer.pdb
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.DataAccessLayer.dll
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.EntityLayer.dll
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.DataAccessLayer.pdb
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.DataAccessLayer.dll.config
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.EntityLayer.pdb
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\CSharp301.EntityLayer.dll.config
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\obj\Debug\CSharp301.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\obj\Debug\CSharp301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\obj\Debug\CSharp30.C930ED65.Up2Date
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\obj\Debug\CSharp301.BusinessLayer.dll
+C:\Users\DİLARA KARACA\Source\Repos\CSharp301\CSharp301.BusinessLayer\obj\Debug\CSharp301.BusinessLayer.pdb
