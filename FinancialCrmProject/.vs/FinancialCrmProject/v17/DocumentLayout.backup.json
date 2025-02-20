@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|c:\\users\\d\u0130lara karaca\\source\\repos\\financialcrmproject\\financialcrmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|solutionrelative:financialcrmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|c:\\users\\d\u0130lara karaca\\source\\repos\\financialcrmproject\\financialcrmproject\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|solutionrelative:financialcrmproject\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|c:\\users\\d\u0130lara karaca\\source\\repos\\financialcrmproject\\financialcrmproject\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|solutionrelative:financialcrmproject\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|c:\\users\\d\u0130lara karaca\\source\\repos\\financialcrmproject\\financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|solutionrelative:financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|c:\\users\\d\u0130lara karaca\\source\\repos\\financialcrmproject\\financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F594990E-D0D9-41E8-9BE1-29F2E52D52A2}|FinancialCrmProject\\FinancialCrmProject.csproj|solutionrelative:financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSpendings.cs",
+              "DocumentMoniker": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrmProject\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmSpendings.cs",
+              "RelativeToolTip": "FinancialCrmProject\\FrmSpendings.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:27:46.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSpendings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrmProject\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmSpendings.cs [Design]",
+              "RelativeToolTip": "FinancialCrmProject\\FrmSpendings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:27:39.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrmProject\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FinancialCrmProject\\FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:16:31.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrmProject\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\FrmBilling.cs",
+              "RelativeToolTip": "FinancialCrmProject\\FrmBilling.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAtwGEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:13:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCrmProject\\Program.cs",
+              "ToolTip": "C:\\Users\\D\u0130LARA KARACA\\Source\\Repos\\FinancialCrmProject\\FinancialCrmProject\\Program.cs",
+              "RelativeToolTip": "FinancialCrmProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:29:40.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
